@@ -1,4 +1,6 @@
-## Hi there 👋
+## Phil Edwards
+
+- [LinkedIn profile](https://www.linkedin.com/in/phillipmedwards/)
 
 <!--
 **pme919/pme919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
